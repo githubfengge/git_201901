@@ -1,3 +1,4 @@
 aaa
 bbbb@modified by hot_fix
+bbbb@modified in master
 ccccc
